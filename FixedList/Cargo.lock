@@ -1,4 +1,4 @@
 [[package]]
-name = "LinkedList"
+name = "FixedList"
 version = "0.1.0"
 

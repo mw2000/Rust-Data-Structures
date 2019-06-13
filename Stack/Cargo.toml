@@ -1,5 +1,5 @@
 [package]
-name = "LinkedList"
+name = "Stack"
 version = "0.1.0"
 authors = ["Mihir <mwadekar2000@gmail.com>", "Chaitenya <chaitenya41@gmail.com>"]
 
