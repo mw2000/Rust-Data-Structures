@@ -5,6 +5,8 @@ This is a project to recreate the popular ADT's in Rust
 - Fixed List
 - Stack
 - Queue
+- Deque
+- Stack
 
 ## ADT's In-Progress:
 - Linked List
