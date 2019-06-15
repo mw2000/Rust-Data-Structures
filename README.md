@@ -6,7 +6,7 @@ This is a project to recreate the popular ADT's in Rust
 - Stack
 - Queue
 - Deque
-- Stack
+- Steque
 
 ## ADT's In-Progress:
 - Linked List
