@@ -1,0 +1,6 @@
+[package]
+name = "HashTable"
+version = "0.1.0"
+authors = ["Mihir <mwadekar2000@gmail.com>"]
+
+[dependencies]
