@@ -7,6 +7,8 @@ This is a project to recreate the popular ADT's in Rust
 - Queue
 - Deque
 - Steque
+- Hash Table
+- Graph
 
 ## ADT's In-Progress:
 - Linked List
