@@ -3,5 +3,5 @@
 version = 3
 
 [[package]]
-name = "Deque"
+name = "BinaryHeap"
 version = "0.1.0"
